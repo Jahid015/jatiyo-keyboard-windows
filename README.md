@@ -71,7 +71,7 @@ If this project saved you time and helped make your typing experience smooth, co
 | Payment Gateway | Account Type | How to Pay / Details |
 | :--- | :--- | :--- |
 | **bKash (বিকাশ)** | Personal (পার্সোনাল) | ![Maybe add in future] |
-| **Nagad (নগদ)** | nagad personal Virtual Number (ভার্চুয়াল) | `9856 0010 0229 2104` <br> *(choose send money and give this 16 digit nagad virtual number on phone number section)* <br> *(সেন্ড মানি অপশনে গিয়ে এই নাম্বার লিখুন)* |
+| **Nagad (নগদ)** | Personal (পার্সোনাল) | `9856 0010 0229 2104` <br> *(choose send money and give this 16 digit nagad virtual number on phone number section)* <br> *(সেন্ড মানি অপশনে গিয়ে ফোন নম্বরের অপশনে এই ১৬ ডিজিটের ভার্চুয়াল নাম্বার লিখুন)* |
 
 ---
 
