@@ -1,5 +1,5 @@
 # jatiyo-keyboard-windows
-Bangla jatiyo keyboard layout installer for Windows. Built to match the typing layout used by standard government systems and media outl
+Bangla jatiyo keyboard layout installer for Windows. Built to match the typing layout used by standard government systems and media outlets.
 # Windows-এর জন্য জাতীয় (Jatiyo) কিবোর্ড লেআউট 🇧🇩
 > A native, lightweight, and updated Jatiyo (জাতীয়) layout installer for Windows.
 
